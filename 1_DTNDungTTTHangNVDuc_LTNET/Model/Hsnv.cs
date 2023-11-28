@@ -177,7 +177,12 @@ namespace _02_NvCuong_DdAnh_HntAnh_BTLLTNET.Model
             da.Fill(dt);
             cbPhongBan.DataSource = dt;
             cbPhongBan.DisplayMember = "Tenphong";
-            cbPhongBan.ValueMember = "Tenphong";
+            cbPhongBan.ValueMember = "Maphong";
+            if (cbPhongBan.Items.Count > 0)
+            {
+                cbPhongBan.SelectedIndex = 0;
+                cbPhongBan.Text = cbPhongBan.GetItemText(cbPhongBan.Items[0]);
+            }
             cmdPhong.Dispose();
             da.Dispose();
         }
@@ -191,7 +196,12 @@ namespace _02_NvCuong_DdAnh_HntAnh_BTLLTNET.Model
             da2.Fill(dt2);
             cbChucvu.DataSource = dt2;
             cbChucvu.DisplayMember = "Tencv";
-            cbChucvu.ValueMember = "Tencv";
+            cbChucvu.ValueMember = "Macv";
+            if (cbChucvu.Items.Count > 0)
+            {
+                cbChucvu.SelectedIndex = 0;
+                cbChucvu.Text = cbChucvu.GetItemText(cbChucvu.Items[0]);
+            }
             cmdChucvu.Dispose();
             da2.Dispose();
         }
@@ -267,7 +277,7 @@ namespace _02_NvCuong_DdAnh_HntAnh_BTLLTNET.Model
             da2.Fill(dt2);
             cbChucvu.DataSource = dt2;
             cbChucvu.DisplayMember = "Tencv";
-            cbChucvu.ValueMember = "Tencv";
+            cbChucvu.ValueMember = "Macv";
             cmd2.Dispose();
 
             string sqlPhong = "SELECT * FROM [Phong] " +
@@ -299,8 +309,8 @@ namespace _02_NvCuong_DdAnh_HntAnh_BTLLTNET.Model
                     " NS= '" + dob + "', " +
                     " Diachi = N'" + txtdiachi.Text + "'," +
                     " Quequan = N'" + txtqq.Text + "', " +
-                    " Maphong = '" + selectedPhong + "', " +
-                    " Macv = '" + selectedCV + "', " +
+                    //" Maphong = '" + selectedPhong + "', " +
+                    //" Macv = '" + selectedCV + "', " +
                     " Loainguoidung = '" + cb_loaiND.Text + "', " +
                     " Hesoluong = '"+ hesoluong.Text + "' " +
                     "  WHERE " +
@@ -320,7 +330,6 @@ namespace _02_NvCuong_DdAnh_HntAnh_BTLLTNET.Model
             
             try
             {
-                
                 string sql = " DELETE FROM Nhanvien " +
                     "  WHERE " +
                     " Manv = N'" + txtmanv.Text + "' ";

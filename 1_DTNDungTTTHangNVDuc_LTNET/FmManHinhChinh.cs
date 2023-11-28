@@ -38,7 +38,6 @@ namespace _02_NvCuong_DdAnh_HntAnh_BTLLTNET
             }
             switch (quyen)
             {
-
                 case "Nhanvien":
                     tabControl.TabPages.Add(tabHSNV);
                     tabControl.TabPages.Add(tabLuong);
@@ -46,6 +45,7 @@ namespace _02_NvCuong_DdAnh_HntAnh_BTLLTNET
                     tabControl.Show();
                     hsnv.Frm_QuanLyHoSoNV_Load(txtmanv, txthoten,
              gioitinh, txt_sdt, txtqq, txtdiachi, dtpNgaySinh, txt_hsl, cbChucvu, cbPhongBan, cb_loaiND, manv);
+                    
                     break;
                 case "GiamDoc":
 
@@ -121,7 +121,7 @@ namespace _02_NvCuong_DdAnh_HntAnh_BTLLTNET
                     break;
                 case "tabHSNV":
                     hsnv.Frm_QuanLyHoSoNV_Load(txtmanv, txthoten,
-             gioitinh, txt_sdt, txtqq, txtdiachi, dtpNgaySinh, txt_hsl, cbChucvu, cbPhongBan,cb_loaiND, manv);
+             gioitinh, txt_sdt, txtqq, txtdiachi, dtpNgaySinh, txt_hsl, cbChucvu, cbPhongBan, cb_loaiND, manv);
                     break;
 
 
@@ -293,6 +293,7 @@ namespace _02_NvCuong_DdAnh_HntAnh_BTLLTNET
 
         private void btn_canhan_sua_Click(object sender, EventArgs e)
         {
+            
             string ngay = String.Format("{0:MM/dd/yyyy}", dtpNgaySinh.Value);
             if (radioButton1.Checked)
             {
@@ -303,7 +304,7 @@ namespace _02_NvCuong_DdAnh_HntAnh_BTLLTNET
             if (radioButton2.Checked)
             {
                 // Xử lý khi chọn giới tính là Nữ
-                gioitinh = "Nữ";
+                gioitinh = "Nu";
                 // Thực hiện công việc khác tương ứng với giới tính Nữ
             }
             hsnv.saveOrUpdateHSNV(txthoten, gioitinh, ngay,
@@ -318,13 +319,17 @@ namespace _02_NvCuong_DdAnh_HntAnh_BTLLTNET
 
         private void btnToolStripResetPass_Click(object sender, EventArgs e)
         {
-            Frm_DoiMK_DucAnh fm = new Frm_DoiMK_DucAnh();
-            fm.ShowDialog();
+            string maSo = txtmanv.Text;
+            Frm_DoiMK_DucAnh form2 = new Frm_DoiMK_DucAnh();
+            form2.SetMa(maSo); // Truyền giá trị vào Form2
+            form2.Show();
         }
 
         private void btnSearch_Click(object sender, EventArgs e)
         {
             trangChu.ViewData(dgv_dsNV_Cuong, keyword.Text);
         }
+
+        
     }
 }

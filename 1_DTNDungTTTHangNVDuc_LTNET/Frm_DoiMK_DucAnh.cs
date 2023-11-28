@@ -13,6 +13,12 @@ namespace _02_NvCuong_DdAnh_HntAnh_BTLLTNET
 {
     public partial class Frm_DoiMK_DucAnh : Form
     {
+
+        string ma;
+        public void SetMa(string maSo)
+        {
+            ma = maSo; // Gán giá trị vào Label của Form2
+        }
         SqlConnection con;
         public Frm_DoiMK_DucAnh()
         {
@@ -31,7 +37,7 @@ namespace _02_NvCuong_DdAnh_HntAnh_BTLLTNET
         {
             try
             {
-                SqlDataAdapter da = new SqlDataAdapter("Select  count(*) from Nhanvien where  Manv=N'" + frDn.getMa() + "' and Matkhau=N'" + textBox4.Text + "'", con);
+                SqlDataAdapter da = new SqlDataAdapter("Select  count(*) from Nhanvien where  Manv=N'" + ma + "' and Matkhau=N'" + textBox4.Text + "'", con);
                 DataTable dt = new DataTable();
                 da.Fill(dt);
                 errorProvider1.Clear();
@@ -39,7 +45,7 @@ namespace _02_NvCuong_DdAnh_HntAnh_BTLLTNET
                 {
                     if (textBox3.Text == textBox2.Text)
                     {
-                        SqlDataAdapter da1 = new SqlDataAdapter("update Nhanvien set Matkhau=N'" + textBox3.Text + "' where Manv=N'" + frDn.getMa() + "' and Matkhau=N'" + textBox4.Text + "'", con);
+                        SqlDataAdapter da1 = new SqlDataAdapter("update Nhanvien set Matkhau=N'" + textBox3.Text + "' where Manv=N'" + ma + "' and Matkhau=N'" + textBox4.Text + "'", con);
                         DataTable dt1 = new DataTable();
                         da1.Fill(dt1);
                         MessageBox.Show("Đổi mật khẩu thành công!!!", "Thông báo");
@@ -66,7 +72,7 @@ namespace _02_NvCuong_DdAnh_HntAnh_BTLLTNET
 
         private void Frm_DoiMK_Dung_Load(object sender, EventArgs e)
         {
-            //label5.Text = frDn.getMa();
+            //label5.Text = ma();
             if (checkBox1.Checked == false)
             {
                 if (textBox4.PasswordChar == '\0')

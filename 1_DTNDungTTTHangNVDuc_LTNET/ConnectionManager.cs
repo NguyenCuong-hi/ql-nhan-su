@@ -11,7 +11,7 @@ namespace _02_NvCuong_DdAnh_HntAnh_BTLLTNET
 {
     class ConnectionManager
     {
-        public static string url = @"Data Source=DUCANH\MSSQLSERVER02;Initial Catalog=qlns;Integrated Security=True";
+        public static string url = @"Data Source=.\SQLEXPRESS;Initial Catalog=QLNSS;Integrated Security=True";
 
         public static SqlConnection getConnection()
         {

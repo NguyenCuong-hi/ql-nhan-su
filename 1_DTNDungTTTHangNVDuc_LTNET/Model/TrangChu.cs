@@ -14,14 +14,10 @@ namespace _02_NvCuong_DdAnh_HntAnh_BTLLTNET.Model
     {
         public void genWhereClause(string sql, string keyword)
         {
-            if(keyword != null)
+            if(keyword != "")
             {
                 sql += " WHERE (1=1) AND ( "
-                    + " [Nhanvien].Manv =  N'" + keyword + "' " 
-                    +" OR [Nhanvien].Hoten =  N'" + keyword + "' " 
-                    + " OR [Nhanvien].Diachi =  N'" + keyword + "' " 
-                    + " OR [Nhanvien].Quequan =  N'" + keyword + "' " 
-                    + " OR Phong.Tenphong  N'" + keyword + "' ) "; 
+                    + " [Nhanvien].Manv =  N'" + keyword + "' ) "  ; 
             }
         }
         public void ViewData(DataGridView dgv_dsNV_Cuong, string keyword)

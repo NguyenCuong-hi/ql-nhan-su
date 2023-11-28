@@ -52,6 +52,7 @@ namespace _02_NvCuong_DdAnh_HntAnh_BTLLTNET
 
         public void button1_Click(DataGridView dgv_bangccong)
         {
+            con.Open();
             int dongchon = -1;
             dongchon = dgv_bangccong.CurrentRow.Index;
             string manv = "";
@@ -66,6 +67,7 @@ namespace _02_NvCuong_DdAnh_HntAnh_BTLLTNET
             }
             try
             {
+
                 SqlCommand cmd = new SqlCommand("UPDATE Chamcong SET Songaylv=@songay  WHERE Manv = @Manv AND Maccong = @Maccong ", con);
                 cmd.Parameters.AddWithValue("@manv", manv);
                 cmd.Parameters.AddWithValue("@Maccong", maccong);
@@ -83,7 +85,7 @@ namespace _02_NvCuong_DdAnh_HntAnh_BTLLTNET
         public void cb_phong_SelectedIndexChanged(DataGridView dgv_bangccong, ComboBox cb_phong,
             ComboBox cbManv, ComboBox cb_Thang, ComboBox cb_nam)
         {
-
+            
             DataTable table = ConnectionManager
                 .getDataToTable(this.gennerateSql(cb_phong, cbManv, cb_Thang, cb_nam), con);
 
@@ -136,6 +138,7 @@ namespace _02_NvCuong_DdAnh_HntAnh_BTLLTNET
         public void cbManv_SelectedIndexChanged(DataGridView dgv_bangccong, ComboBox cb_phong,
             ComboBox cbManv, ComboBox cb_Thang, ComboBox cb_nam)
         {
+            con.Open();
             DataTable table = ConnectionManager
                 .getDataToTable(this.gennerateSql(cb_phong, cbManv, cb_Thang, cb_nam), con);
 
@@ -148,11 +151,14 @@ namespace _02_NvCuong_DdAnh_HntAnh_BTLLTNET
                 }
             }
 
+            con.Close();
         }
 
         public void loadTable(DataGridView dgv_bangccong, ComboBox cb_phong, 
             ComboBox cbManv, ComboBox cb_Thang, ComboBox cb_nam)
         {
+            
+            
             DataTable table = ConnectionManager
                 .getDataToTable(this.gennerateSql(cb_phong, cbManv, cb_Thang, cb_nam), con);
 
@@ -164,6 +170,7 @@ namespace _02_NvCuong_DdAnh_HntAnh_BTLLTNET
                     column.DataPropertyName = table.Columns[column.Name].ColumnName;
                 }
             }
+            con.Close();
         }
 
         public string gennerateSql(ComboBox cb_phong, ComboBox cbManv, ComboBox cb_Thang, ComboBox cb_nam)
@@ -227,8 +234,10 @@ namespace _02_NvCuong_DdAnh_HntAnh_BTLLTNET
         public void CCong_Click(DataGridView dgv_bangccong, ComboBox cb_phong, ComboBox cbManv, 
             ComboBox cb_Thang, ComboBox cb_nam, TextBox txtSongaylv)
         {
+            
             try
             {
+                con.Open();
                 SqlCommand cmd = new SqlCommand("insert into Chamcong(Maccong,Manv,Thang,Nam,Songaylv) values(@macc,@manv,@thang,@nam,@songay)", con);
                 cmd.Parameters.AddWithValue("@macc", this.GenerateAttendanceCode());
                 cmd.Parameters.AddWithValue("@manv", cbManv.Text);
@@ -243,11 +252,13 @@ namespace _02_NvCuong_DdAnh_HntAnh_BTLLTNET
                 MessageBox.Show(ex.Message);
             }
             this.loadTable(dgv_bangccong, cb_phong, cbManv, cb_Thang, cb_nam);
+            con.Close();
         }
 
         public void btnXoa_Click(DataGridView dgv_bangccong, ComboBox cb_phong, ComboBox cbManv,
             ComboBox cb_Thang, ComboBox cb_nam, TextBox txtSongaylv)
         {
+            con.Open();
             int dongchon = -1;
             dongchon = dgv_bangccong.CurrentRow.Index;
             string manv = "";
@@ -270,6 +281,7 @@ namespace _02_NvCuong_DdAnh_HntAnh_BTLLTNET
                 MessageBox.Show(ex.Message);
             }
             this.loadTable(dgv_bangccong, cb_phong, cbManv, cb_Thang, cb_nam);
+            con.Close();
         }
     }
 }

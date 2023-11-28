@@ -106,7 +106,7 @@ namespace _02_NvCuong_DdAnh_HntAnh_BTLLTNET
             if (radioButton2.Checked)
             {
                 // Xử lý khi chọn giới tính là Nữ
-                gioitinh = "Nữ";
+                gioitinh = "Nu";
                 // Thực hiện công việc khác tương ứng với giới tính Nữ
             }
             try
@@ -222,7 +222,7 @@ namespace _02_NvCuong_DdAnh_HntAnh_BTLLTNET
                 {
                     radioButton1.Checked = true; // Chọn RadioButton "Nam"
                 }
-                else if (gioitinh == "Nữ")
+                else if (gioitinh == "Nu")
                 {
                     radioButton2.Checked = true; // Chọn RadioButton "Nữ"
                 }

@@ -1,0 +1,168 @@
+D:\C#\1_DTNDungTTTHangNVDuc_LTNET\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\1_DTNDungTTTHangNVDuc_LTNET.exe.config
+D:\C#\1_DTNDungTTTHangNVDuc_LTNET\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\1_DTNDungTTTHangNVDuc_LTNET.exe
+D:\C#\1_DTNDungTTTHangNVDuc_LTNET\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\1_DTNDungTTTHangNVDuc_LTNET.pdb
+D:\C#\1_DTNDungTTTHangNVDuc_LTNET\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\1_DTNDungTTTHangNVDuc_LTNET.csproj.AssemblyReference.cache
+D:\C#\1_DTNDungTTTHangNVDuc_LTNET\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\1_DTNDungTTTHangNVDuc_LTNET.csproj.SuggestedBindingRedirects.cache
+D:\C#\1_DTNDungTTTHangNVDuc_LTNET\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\_1_DTNDungTTTHangNVDuc_LTNET.frm_DangNhap_Dung.resources
+D:\C#\1_DTNDungTTTHangNVDuc_LTNET\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\_1_DTNDungTTTHangNVDuc_LTNET.Frm_QuanLyHoSoNV_Dung.resources
+D:\C#\1_DTNDungTTTHangNVDuc_LTNET\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\_1_DTNDungTTTHangNVDuc_LTNET.Properties.Resources.resources
+D:\C#\1_DTNDungTTTHangNVDuc_LTNET\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\1_DTNDungTTTHangNVDuc_LTNET.csproj.GenerateResource.cache
+D:\C#\1_DTNDungTTTHangNVDuc_LTNET\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\1_DTNDungTTTHangNVDuc_LTNET.csproj.CoreCompileInputs.cache
+D:\C#\1_DTNDungTTTHangNVDuc_LTNET\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\1_DTNDungTTTHangNVDuc_LTNET.exe
+D:\C#\1_DTNDungTTTHangNVDuc_LTNET\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\1_DTNDungTTTHangNVDuc_LTNET.pdb
+D:\C#\1_DTNDungTTTHangNVDuc_LTNET\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\_1_DTNDungTTTHangNVDuc_LTNET.Frm_DoiMK_Dung.resources
+D:\C#\1_DTNDungTTTHangNVDuc_LTNET\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\_1_DTNDungTTTHangNVDuc_LTNET.Frm_QLPhong_Hang.resources
+D:\C#\1_DTNDungTTTHangNVDuc_LTNET\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\_1_DTNDungTTTHangNVDuc_LTNET.Frm_QuanlyChucVu_Duc.resources
+D:\C#\1_DTNDungTTTHangNVDuc_LTNET\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\_1_DTNDungTTTHangNVDuc_LTNET.Frm_GTNhom1_Duc.resources
+D:\C#\1_DTNDungTTTHangNVDuc_LTNET\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\_1_DTNDungTTTHangNVDuc_LTNET.Frm_Chamcong_Dung.resources
+D:\C#\1_DTNDungTTTHangNVDuc_LTNET\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\_1_DTNDungTTTHangNVDuc_LTNET.FrmTienLuong.resources
+D:\C#\1_DTNDungTTTHangNVDuc_LTNET\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\_1_DTNDungTTTHangNVDuc_LTNET.Form1.resources
+E:\BTL_NET\1_DTNDungTTTHangNVDuc_LTNET - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\1_DTNDungTTTHangNVDuc_LTNET.exe.config
+E:\BTL_NET\1_DTNDungTTTHangNVDuc_LTNET - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\1_DTNDungTTTHangNVDuc_LTNET.exe
+E:\BTL_NET\1_DTNDungTTTHangNVDuc_LTNET - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\1_DTNDungTTTHangNVDuc_LTNET.pdb
+E:\BTL_NET\1_DTNDungTTTHangNVDuc_LTNET - Copy\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\1_DTNDungTTTHangNVDuc_LTNET.csproj.AssemblyReference.cache
+E:\BTL_NET\1_DTNDungTTTHangNVDuc_LTNET - Copy\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\1_DTNDungTTTHangNVDuc_LTNET.csproj.SuggestedBindingRedirects.cache
+E:\BTL_NET\1_DTNDungTTTHangNVDuc_LTNET - Copy\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\_1_DTNDungTTTHangNVDuc_LTNET.Form1.resources
+E:\BTL_NET\1_DTNDungTTTHangNVDuc_LTNET - Copy\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\_1_DTNDungTTTHangNVDuc_LTNET.FrmTienLuong.resources
+E:\BTL_NET\1_DTNDungTTTHangNVDuc_LTNET - Copy\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\_1_DTNDungTTTHangNVDuc_LTNET.Frm_Chamcong_Dung.resources
+E:\BTL_NET\1_DTNDungTTTHangNVDuc_LTNET - Copy\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\_1_DTNDungTTTHangNVDuc_LTNET.frm_DangNhap_Dung.resources
+E:\BTL_NET\1_DTNDungTTTHangNVDuc_LTNET - Copy\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\_1_DTNDungTTTHangNVDuc_LTNET.Frm_DoiMK_Dung.resources
+E:\BTL_NET\1_DTNDungTTTHangNVDuc_LTNET - Copy\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\_1_DTNDungTTTHangNVDuc_LTNET.Frm_GTNhom1_Duc.resources
+E:\BTL_NET\1_DTNDungTTTHangNVDuc_LTNET - Copy\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\_1_DTNDungTTTHangNVDuc_LTNET.Frm_QLPhong_Hang.resources
+E:\BTL_NET\1_DTNDungTTTHangNVDuc_LTNET - Copy\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\_1_DTNDungTTTHangNVDuc_LTNET.Frm_QuanlyChucVu_Duc.resources
+E:\BTL_NET\1_DTNDungTTTHangNVDuc_LTNET - Copy\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\_1_DTNDungTTTHangNVDuc_LTNET.Frm_QuanLyHoSoNV_Dung.resources
+E:\BTL_NET\1_DTNDungTTTHangNVDuc_LTNET - Copy\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\_1_DTNDungTTTHangNVDuc_LTNET.Properties.Resources.resources
+E:\BTL_NET\1_DTNDungTTTHangNVDuc_LTNET - Copy\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\1_DTNDungTTTHangNVDuc_LTNET.csproj.GenerateResource.cache
+E:\BTL_NET\1_DTNDungTTTHangNVDuc_LTNET - Copy\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\1_DTNDungTTTHangNVDuc_LTNET.csproj.CoreCompileInputs.cache
+E:\BTL_NET\1_DTNDungTTTHangNVDuc_LTNET - Copy\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\1_DTNDungTTTHangNVDuc_LTNET.exe
+E:\BTL_NET\1_DTNDungTTTHangNVDuc_LTNET - Copy\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\1_DTNDungTTTHangNVDuc_LTNET.pdb
+C:\Users\anh15\Documents\Zalo Received Files\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\1_DTNDungTTTHangNVDuc_LTNET.exe.config
+C:\Users\anh15\Documents\Zalo Received Files\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\1_DTNDungTTTHangNVDuc_LTNET.exe
+C:\Users\anh15\Documents\Zalo Received Files\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\1_DTNDungTTTHangNVDuc_LTNET.pdb
+C:\Users\anh15\Documents\Zalo Received Files\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\1_DTNDungTTTHangNVDuc_LTNET.csproj.AssemblyReference.cache
+C:\Users\anh15\Documents\Zalo Received Files\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\_1_DTNDungTTTHangNVDuc_LTNET.Properties.Resources.resources
+C:\Users\anh15\Documents\Zalo Received Files\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\1_DTNDungTTTHangNVDuc_LTNET.csproj.GenerateResource.cache
+C:\Users\anh15\Documents\Zalo Received Files\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\1_DTNDungTTTHangNVDuc_LTNET.csproj.CoreCompileInputs.cache
+C:\Users\anh15\Documents\Zalo Received Files\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\1_DTNDungTTTHangNVDuc_LTNET.exe
+C:\Users\anh15\Documents\Zalo Received Files\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\1_DTNDungTTTHangNVDuc_LTNET.pdb
+C:\Users\anh15\Documents\Zalo Received Files\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\_1_DTNDungTTTHangNVDuc_LTNET.FrmTienLuong_TuanAnh.resources
+C:\Users\anh15\Documents\Zalo Received Files\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\_1_DTNDungTTTHangNVDuc_LTNET.Frm_Chamcong_Cuong.resources
+C:\Users\anh15\Documents\Zalo Received Files\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\_1_DTNDungTTTHangNVDuc_LTNET.frm_DangNhap_DucAnh.resources
+C:\Users\anh15\Documents\Zalo Received Files\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\_1_DTNDungTTTHangNVDuc_LTNET.Frm_DoiMK_DucAnh.resources
+C:\Users\anh15\Documents\Zalo Received Files\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\_1_DTNDungTTTHangNVDuc_LTNET.Frm_GTNhom1_TuanAnh.resources
+C:\Users\anh15\Documents\Zalo Received Files\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\_1_DTNDungTTTHangNVDuc_LTNET.Frm_QLPhong_TuanAnh.resources
+C:\Users\anh15\Documents\Zalo Received Files\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\_1_DTNDungTTTHangNVDuc_LTNET.Frm_QuanlyChucVu_DucAnh.resources
+C:\Users\anh15\Documents\Zalo Received Files\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\_1_DTNDungTTTHangNVDuc_LTNET.Frm_QuanLyHoSoNV_Cuong.resources
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\_1_DTNDungTTTHangNVDuc_LTNET.FrmTienLuong_TuanAnh.resources
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\_1_DTNDungTTTHangNVDuc_LTNET.Frm_Chamcong_Cuong.resources
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\_1_DTNDungTTTHangNVDuc_LTNET.frm_DangNhap_DucAnh.resources
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\_1_DTNDungTTTHangNVDuc_LTNET.Frm_Danhsachnhanvien.resources
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\_1_DTNDungTTTHangNVDuc_LTNET.Frm_DoiMK_DucAnh.resources
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\_1_DTNDungTTTHangNVDuc_LTNET.Frm_GTNhom1_TuanAnh.resources
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\_1_DTNDungTTTHangNVDuc_LTNET.Frm_QLPhong_TuanAnh.resources
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\_1_DTNDungTTTHangNVDuc_LTNET.Frm_QuanlyChucVu_DucAnh.resources
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\_1_DTNDungTTTHangNVDuc_LTNET.Frm_QuanLyHoSoNV_Cuong.resources
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\_1_DTNDungTTTHangNVDuc_LTNET.Properties.Resources.resources
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\1_DTNDungTTTHangNVDuc_LTNET.csproj.GenerateResource.cache
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\1_DTNDungTTTHangNVDuc_LTNET.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\1_DTNDungTTTHangNVDuc_LTNET.exe
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\1_DTNDungTTTHangNVDuc_LTNET.pdb
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\1_DTNDungTTTHangNVDuc_LTNET.exe.config
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\1_DTNDungTTTHangNVDuc_LTNET.exe
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\1_DTNDungTTTHangNVDuc_LTNET.pdb
+C:\Users\anh15\Documents\Zalo Received Files\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\_1_DTNDungTTTHangNVDuc_LTNET.Frm_Danhsachnhanvien.resources
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\ClosedXML.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\DocumentFormat.OpenXml.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\ExcelNumberFormat.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\Irony.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\MoreLinq.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\SixLabors.Fonts.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\System.Buffers.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\System.IO.Packaging.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\System.Linq.Dynamic.Core.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\System.Memory.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\System.Numerics.Vectors.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\System.ValueTuple.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\XLParser.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\EnvDTE.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\stdole.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\Microsoft.MSXML.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\ClosedXML.xml
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\DocumentFormat.OpenXml.xml
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\ExcelNumberFormat.xml
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\MoreLinq.pdb
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\MoreLinq.xml
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\SixLabors.Fonts.xml
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\System.Buffers.xml
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\System.IO.Packaging.xml
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\System.Linq.Dynamic.Core.pdb
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\System.Linq.Dynamic.Core.xml
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\System.Memory.xml
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\System.Numerics.Vectors.xml
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\System.ValueTuple.xml
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\obj\Debug\1_DTNDungTTTHangNVDuc_LTNET.csproj.CopyComplete
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\EPPlus.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\EPPlus.Interfaces.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\EPPlus.System.Drawing.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\System.ComponentModel.Annotations.dll
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\EPPlus.xml
+D:\WorkSpace\Net\1_DTNDungTTTHangNVDuc_LTNET - Copy - Copy\1_DTNDungTTTHangNVDuc_LTNET\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
